@@ -1,0 +1,15 @@
+c:\users\шулякд\source\repos\ShopProducts\ShopProducts\bin\Debug\ShopProducts.exe.config
+c:\users\шулякд\source\repos\ShopProducts\ShopProducts\bin\Debug\ShopProducts.exe
+c:\users\шулякд\source\repos\ShopProducts\ShopProducts\bin\Debug\ShopProducts.pdb
+c:\users\шулякд\source\repos\ShopProducts\ShopProducts\bin\Debug\EntityFramework.dll
+c:\users\шулякд\source\repos\ShopProducts\ShopProducts\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\шулякд\source\repos\ShopProducts\ShopProducts\bin\Debug\EntityFramework.xml
+c:\users\шулякд\source\repos\ShopProducts\ShopProducts\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\шулякд\source\repos\ShopProducts\ShopProducts\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\шулякд\source\repos\ShopProducts\ShopProducts\obj\Debug\ShopProducts.csprojAssemblyReference.cache
+c:\users\шулякд\source\repos\ShopProducts\ShopProducts\obj\Debug\ShopProducts.csproj.CoreCompileInputs.cache
+c:\users\шулякд\source\repos\ShopProducts\ShopProducts\obj\Debug\ShopProducts.csproj.CopyComplete
+c:\users\шулякд\source\repos\ShopProducts\ShopProducts\obj\Debug\ShopProducts.exe
+c:\users\шулякд\source\repos\ShopProducts\ShopProducts\obj\Debug\ShopProducts.pdb
+c:\users\шулякд\source\repos\ShopProducts\ShopProducts\obj\Debug\ShopProducts.Migrations.migration.resources
+c:\users\шулякд\source\repos\ShopProducts\ShopProducts\obj\Debug\ShopProducts.csproj.GenerateResource.cache
